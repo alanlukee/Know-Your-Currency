@@ -4,8 +4,9 @@ This repository contains a currency detection model built using Convolutional Ne
 The model is trained to classify different types of currency notes accurately.
 
 # Screenshots of predictions
-![10 rup](https://github.com/alanlukee/Know-Your-Currency/assets/99173314/1854ce71-4181-4640-9f46-005705e890c4)
+![streeeem](https://github.com/alanlukee/Know-Your-Currency/assets/99173314/05184d2b-073b-4c9a-8b4e-8841814f25a4)
 
-![100 rup](https://github.com/alanlukee/Know-Your-Currency/assets/99173314/18885747-0007-4357-8cd1-905caf81cd8d)
+![streeem](https://github.com/alanlukee/Know-Your-Currency/assets/99173314/427875d3-a228-4733-a845-35c4bec95fb9)
 
-![500 rup](https://github.com/alanlukee/Know-Your-Currency/assets/99173314/9576a442-bffd-416f-bc3a-dda870586bca)
+![sttreeem](https://github.com/alanlukee/Know-Your-Currency/assets/99173314/4bbfbb04-c75d-4773-9c9b-4ceec8d19d4a)
+
